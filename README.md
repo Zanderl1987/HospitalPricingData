@@ -1,5 +1,6 @@
 [README.md](https://github.com/user-attachments/files/30173196/README.md)
-# HospitalPricingData# HospitalPricingData
+# HospitalPricingData
+# HospitalPricingData
 
 Research repository for CMS Hospital Price Transparency data collection and analysis.
 
